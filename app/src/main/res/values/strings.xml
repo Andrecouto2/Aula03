@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Aula02</string>
+    <string name="app_name">Class02</string>
     <string name="titulo">Team S2</string>
     <string name="desenvolvido_por">Developed by S2</string>
     <string name="hint_nome">Name</string>
